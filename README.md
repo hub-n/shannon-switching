@@ -30,8 +30,8 @@ Niektóre z ustawień można łatwo zmienić według podanej później instrukcj
 ## Instrukcja uruchomienia:
 
 ```
-git clone https://gitlab-stud.elka.pw.edu.pl/hniewier/pipr-projekt-shannon-connect
-cd pipr-projekt-shannon-connect
+git clone https://github.com/hub-n/shannon-switching
+cd shannon-switching
 pip install pygame
 python game.py
 ```
